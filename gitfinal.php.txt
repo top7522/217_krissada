@@ -1,1 +1,3 @@
-<? echo "Hello todey is Monday"?>
+<?
+echo "Hello todey is Monday"
+?>
